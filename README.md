@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hwithaar
 - 👀 I’m interested in any programming task (specially in C/C++)
-- 🌱 I’m currently learning Joomla CMS
+- 🌱 I’m currently learning Joomla CMS and Wordpress
 - 💞️ I’m looking to collaborate on nay project needing help with C/C++ and windows programming
 - 📫 How to reach me : herman.withaar@gmail.com
 
